@@ -1,4 +1,3 @@
-![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielhhz)](https://github.com/gabrielhhz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-vieira-assana-62405414a/)](https://www.linkedin.com/in/gabriel-vieira-assana-62405414a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.gabrielhhz2@gmail.com)](mailto:contato.gabrielhhz2@gmail.com)
 ### Blz Galera ? Como vai ?
