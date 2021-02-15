@@ -4,6 +4,6 @@
 Prazer me chamo Gabriel Assana, eu sou Graduado no curso de Análise e Desenvolvimento de Sistemas, sempre em busca de oportunidades para desenvolver e melhorar os meus conhecimentos na área de desenvolvimento, além de algo que possa me instruir de forma crescente e contínua.
 - 👨🏻‍💻  QA Jr /Front-end Jr.
 - 🔍 Atualmente aberto a novas oportunidades.
-- 📰 Trabalho com a stack Node.js, Angular.JS, Alem do bom e velho JavaScript puro.
+- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap, Jquery, Angular.js, Node.js
 - 📡 Neste momento busco colaborar com projetos Front-end.
-- 💬 Sobre mim: Apaixonado por desenvolvimento, dedicando o máximo das minha hora livres em estudo a essa paixão, 
+- 💬 Sobre mim: Apaixonado por desenvolvimento, sendo dedicando o máximo das minha hora livres em estudo a essa paixão, amante de esportes, sou uma pessoa muito extrovertida, que se adapta facil a trabalhos em grupo.
