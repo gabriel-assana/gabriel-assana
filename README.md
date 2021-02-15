@@ -9,4 +9,4 @@ Prazer me chamo Gabriel Assana, eu sou Graduado no curso de Análise e Desenvolv
 - 🔍 Atualmente aberto a novas oportunidades.
 - 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap, Jquery, Angular.js, Node.js
 - 📡 Neste momento busco colaborar com projetos Front-end.
-- 💬 Sobre mim: Apaixonado por desenvolvimento, sendo dedicando o máximo das minha hora livres em estudo a essa paixão, amante de esportes, sou uma pessoa muito extrovertida, que se adapta facil a trabalhos em grupo.
+- 💬 Sobre mim: Apaixonado por desenvolvimento, sendo que em minhas horas livres me dedico ao máximo a continuo aprendizado dessa paixão, conhecendo novas tecnologias e consolidando as mesmas, amante de esportes, sou uma pessoa muito extrovertida, que se adapta fácil a trabalhos em grupo.
