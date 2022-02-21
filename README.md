@@ -7,6 +7,6 @@ Prazer me chamo Gabriel Assana, eu sou Graduado no curso de Análise e Desenvolv
 
 - 👨🏻‍💻  QA Jr /Front-end Jr.
 - 🔍 Atualmente aberto a novas oportunidades.
-- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap, Jquery, React e Vue.js
+- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap, Jquery, React.js e Vue.js
 - 📡 Neste momento busco colaborar com projetos Front-end.
 - 💬 Sobre mim: Apaixonado por desenvolvimento, sendo que em minhas horas livres me dedico ao máximo a continuo aprendizado dessa paixão, conhecendo novas tecnologias e consolidando as mesmas, amante de esportes, sou uma pessoa muito extrovertida, que se adapta fácil a trabalhos em grupo.
