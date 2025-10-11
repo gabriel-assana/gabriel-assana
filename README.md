@@ -8,7 +8,7 @@ Sempre em busca de oportunidades para desenvolver e melhorar os meus conheciment
 
 - 👨🏻‍💻 Front-end.
 - 🔍 Atualmente aberto a novas oportunidades.
-- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Css, Html, Bootstrap, Jquery, Typescript, React.js e Vue.js
+- 📰 Conhecimento nas seguintes Tecnologias: JavaScript, Typescript, Css, Html, React.js, Next.js e Vue.js
 - 📡 Neste momento busco colaborar com projetos Front-end.
 - 💬 Sobre mim: Apaixonado por desenvolvimento, sendo que em minhas horas livres me dedico ao máximo ao continuo aprendizado dessa paixão, conhecendo novas tecnologias e consolidando-as, amante de esportes, sou uma pessoa muito extrovertida, que se adapta fácil a trabalhos em grupo.
 
