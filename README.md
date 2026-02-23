@@ -23,4 +23,3 @@ Sempre em busca de oportunidades para desenvolver e melhorar os meus conheciment
   <img align="center" alt="Gabriel-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
   <img align="center" alt="Gabriel-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
 </div>
-
