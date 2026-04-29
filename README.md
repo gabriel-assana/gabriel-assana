@@ -13,11 +13,16 @@ Sempre em busca de oportunidades para desenvolver e melhorar os meus conheciment
 - 💬 Sobre mim: Apaixonado por desenvolvimento, sendo que em minhas horas livres me dedico ao máximo ao continuo aprendizado dessa paixão, conhecendo novas tecnologias e consolidando-as, amante de esportes, sou uma pessoa muito extrovertida, que se adapta fácil a trabalhos em grupo.
 
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" height="30" width="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" height="30" width="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" width="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" height="30" width="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" height="30" width="40" />
+  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" height="30" width="40" />
-</p>
+</div>
